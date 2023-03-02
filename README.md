@@ -2,8 +2,8 @@
 
 ## Overview
 
--Compares two self-built CNN models against a fine-tuned pre-built model EfficientNetV2B2.
--All three models performed above 0.9 measured using F1-macro score. While comparing under cases when a set of images with common postures is presented to both the networks, self-built model performed better than the pre-trained model. 
+-Compares two self-built CNN models against a fine-tuned pre-built model EfficientNetV2B2.  
+-All three models performed above 0.9 measured using F1-macro score. While comparing under cases when a set of images with common postures is presented to both the networks, self-built model performed better than the pre-trained model.  
 -The [Br35H :: Brain Tumor Detection 2020](https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection) Kaggle data set was used to train and do inital testing of the models.  
 -The [Brain Tumor Classification (MRI)](https://www.kaggle.com/datasets/sartajbhuvaji/brain-tumor-classification-mri?select=Training) Kaggle data set was used to retest the models on brain scan data with new orientations.
 
