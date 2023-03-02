@@ -24,5 +24,5 @@
 ## Conclusions
 
 1. Residual Network is an architecture that is robust to training large-scale neural networks.  
-2. Once the data is expected to have many layers to achieve good performance, residual blocks can be used to ensure the gradient flow to earlier layers is unhindered.  
+2. Once the neural network is expected to have many layers to achieve good performance, residual blocks can be used to ensure the gradient flow to earlier layers is unhindered.  
 3. Despite the complexity of the pre-built model, training both the network with same set of images, the pre-trained model was unable to outperform the self-built Residual based CNN model.  
